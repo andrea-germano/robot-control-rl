@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+/trained_models/
+/training_logs/
+/training_results/
+/test_results/

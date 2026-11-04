@@ -1,0 +1,7 @@
+gymnasium
+stable-baselines3
+sb3-contrib
+numpy
+matplotlib
+pandas
+seaborn
